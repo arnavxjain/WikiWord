@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <meta charset="utf-8" />
+    <style>
+        * {
+            font-family: 'Poppins', sans-serif;
+            outline: none;
+        }
+
+        .box {
+            width: 300px;
+            display: grid;
+            justify-content: center;
+            padding: 10px;
+        }
+
+
+        h3 {
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+            background-color: rgb(204, 204, 204);
+            border-radius: 8px;
+        }
+
+        input {
+            border-radius: 8px;
+            background-color: rgb(221, 221, 221);
+            box-shadow: none;
+            transition: all 0.22s ease-in-out;
+            border: none;
+            text-indent: 4px;
+            width: 300px;
+            height: 30px;
+        }
+        input:focus {
+            box-shadow: 3px 3px 3px rgb(177, 177, 177);
+        }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+        <script src="main.js"></script>
+        <input type="text" autofocus placeholder="Search for a word">
+        <div class="results" id="results">
+            
+        </div>
+    </div>
+  </body>
+</html>

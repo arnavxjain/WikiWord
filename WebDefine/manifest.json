@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Quick Word Search",
+    "version": "0.1",
+    "description": "Quickly search for any word to get to know about its definition and synonyms.",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["content.js"]
+        }
+    ],
+    "browser_action": {
+        "default_title": "Look up a definition",
+        "default_popup": "sketch/index.html",
+        "default_icon": "main4.png"
+    }
+}
