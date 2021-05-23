@@ -6,5 +6,5 @@
 ![image](https://user-images.githubusercontent.com/70736942/119270543-cda13d80-bc1a-11eb-930c-03ebe7738f3e.png)
 
 ### WikiWord is maintained and developed by Arnav Jain
-[arnavjain.in](https://arnavjain.in) <br>
-[GitHub Account](https://github.com/arnavjainn06)
+- [arnavjain.in](https://arnavjain.in) <br>
+- [GitHub Account](https://github.com/arnavjainn06)
