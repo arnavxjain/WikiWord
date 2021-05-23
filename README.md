@@ -9,4 +9,4 @@
 - [arnavjain.in](https://arnavjain.in) <br>
 - [GitHub Account](https://github.com/arnavjainn06)
 
-**The Link to this Extensions Installable site will be uploaded soon**
+**The Link to this extensions installation site will be uploaded soon**
